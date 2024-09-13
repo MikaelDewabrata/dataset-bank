@@ -1,0 +1,501 @@
+customer_id,time_of_purchase,menu_item,purchase_day,customer_segment,purchase_hour_label
+2824,2024-09-09 09:18:00.464626,Mie Ayam,Monday,Karyawan,09:00
+3286,2024-09-22 17:50:15.556452,Mie Ayam,Sunday,Pelajar,17:00
+7912,2024-09-03 09:22:53.011754,Mie Ayam,Tuesday,Karyawan,09:00
+9279,2024-09-18 16:13:27.209095,Bakso Kuah,Wednesday,Lainnya,16:00
+4611,2024-09-09 14:23:25.830799,Bakso Kuah,Monday,Karyawan,14:00
+7924,2024-09-05 13:04:58.822314,Mie Ayam,Thursday,Pekerja Informal,13:00
+2674,2024-09-04 10:06:46.620434,Mie Yamin,Wednesday,Pekerja Informal,10:00
+5333,2024-09-24 18:41:07.941405,Bakso Kuah,Tuesday,Pelajar,18:00
+7201,2024-09-10 09:56:44.168557,Mie Yamin,Tuesday,Karyawan,09:00
+2139,2024-09-08 09:32:59.613374,Mie Yamin,Sunday,Pelajar,09:00
+4814,2024-09-13 19:23:52.094404,Bakso Kuah,Friday,Pekerja Informal,19:00
+3664,2024-09-07 13:26:31.817779,Mie Yamin,Saturday,Pelajar,13:00
+3803,2024-09-08 15:24:34.842688,Bakso Kuah,Sunday,Lainnya,15:00
+5422,2024-09-21 20:52:27.408748,Mie Ayam,Saturday,Karyawan,20:00
+6313,2024-09-25 19:06:51.202952,Bakso Kuah,Wednesday,Pelajar,19:00
+6168,2024-09-03 13:48:50.318799,Mie Ayam,Tuesday,Pekerja Informal,13:00
+4483,2024-09-13 16:51:54.950341,Mie Yamin,Friday,Lainnya,16:00
+3340,2024-09-08 12:10:42.823193,Mie Yamin,Sunday,Lainnya,12:00
+7543,2024-09-05 13:20:38.246368,Mie Bakso,Thursday,Pelajar,13:00
+1771,2024-09-05 19:19:59.645698,Mie Ayam,Thursday,Lainnya,19:00
+2040,2024-09-20 13:37:01.947864,Mie Bakso,Friday,Pekerja Informal,13:00
+1188,2024-09-04 17:09:48.243323,Mie Ayam,Wednesday,Pekerja Informal,17:00
+6573,2024-09-14 10:20:19.053899,Mie Ayam,Saturday,Lainnya,10:00
+1053,2024-09-29 20:26:44.848069,Mie Ayam,Sunday,Karyawan,20:00
+9317,2024-09-28 19:57:05.522660,Mie Ayam,Saturday,Karyawan,19:00
+3504,2024-09-06 13:29:13.078432,Bakso Kuah,Friday,Pekerja Informal,13:00
+9005,2024-09-30 09:14:01.395271,Mie Yamin,Monday,Pekerja Informal,09:00
+4923,2024-09-29 09:41:42.367193,Bakso Kuah,Sunday,Pelajar,09:00
+8962,2024-09-25 18:47:32.204548,Bakso Kuah,Wednesday,Karyawan,18:00
+3103,2024-10-01 16:55:01.235543,Bakso Kuah,Tuesday,Pekerja Informal,16:00
+9645,2024-09-14 19:28:09.107375,Mie Bakso,Saturday,Karyawan,19:00
+6107,2024-09-22 13:47:16.467360,Mie Yamin,Sunday,Lainnya,13:00
+9479,2024-09-08 14:25:04.201308,Mie Ayam,Sunday,Pelajar,14:00
+6539,2024-09-18 09:15:08.680032,Mie Ayam,Wednesday,Karyawan,09:00
+1117,2024-09-21 09:51:06.901316,Bakso Kuah,Saturday,Karyawan,09:00
+2104,2024-09-28 19:51:54.144562,Bakso Kuah,Saturday,Karyawan,19:00
+5562,2024-09-07 17:01:39.840022,Bakso Kuah,Saturday,Lainnya,17:00
+4981,2024-09-26 18:24:55.559129,Bakso Kuah,Thursday,Pelajar,18:00
+2588,2024-09-12 16:54:28.054779,Bakso Kuah,Thursday,Lainnya,16:00
+1887,2024-09-21 17:04:49.348443,Bakso Kuah,Saturday,Lainnya,17:00
+6559,2024-09-04 18:36:25.596469,Bakso Kuah,Wednesday,Karyawan,18:00
+9786,2024-09-14 14:23:00.105266,Mie Ayam,Saturday,Pekerja Informal,14:00
+8579,2024-09-30 11:59:51.638549,Bakso Kuah,Monday,Lainnya,11:00
+2604,2024-09-18 09:36:25.415835,Bakso Kuah,Wednesday,Pelajar,09:00
+4872,2024-09-16 10:59:44.639978,Mie Bakso,Monday,Karyawan,10:00
+7570,2024-09-06 19:49:45.531790,Bakso Kuah,Friday,Lainnya,19:00
+5345,2024-09-26 20:07:05.580778,Bakso Kuah,Thursday,Lainnya,20:00
+8973,2024-09-10 10:51:27.222852,Mie Ayam,Tuesday,Pelajar,10:00
+9883,2024-09-11 09:43:53.367088,Bakso Kuah,Wednesday,Pelajar,09:00
+8811,2024-09-28 15:02:03.136542,Bakso Kuah,Saturday,Pelajar,15:00
+9320,2024-09-06 09:57:40.815298,Bakso Kuah,Friday,Pelajar,09:00
+4853,2024-10-01 13:50:43.103817,Mie Ayam,Tuesday,Pelajar,13:00
+2343,2024-09-19 14:01:50.516343,Mie Yamin,Thursday,Pekerja Informal,14:00
+4346,2024-09-11 17:02:12.162110,Bakso Kuah,Wednesday,Lainnya,17:00
+3144,2024-09-10 17:03:37.017632,Bakso Kuah,Tuesday,Pelajar,17:00
+1152,2024-09-19 14:29:57.934577,Bakso Kuah,Thursday,Pelajar,14:00
+9808,2024-09-09 11:33:28.266290,Mie Ayam,Monday,Pekerja Informal,11:00
+2127,2024-09-12 19:33:04.474475,Bakso Kuah,Thursday,Lainnya,19:00
+9900,2024-09-20 17:26:32.924764,Mie Bakso,Friday,Pelajar,17:00
+5905,2024-09-04 20:10:51.860904,Mie Bakso,Wednesday,Karyawan,20:00
+5333,2024-09-04 10:23:06.518562,Mie Ayam,Wednesday,Pekerja Informal,10:00
+5616,2024-09-23 16:15:28.648528,Bakso Kuah,Monday,Pekerja Informal,16:00
+9280,2024-09-29 14:51:44.576013,Bakso Kuah,Sunday,Pelajar,14:00
+7939,2024-09-02 18:57:07.837461,Bakso Kuah,Monday,Karyawan,18:00
+5291,2024-09-15 10:56:20.341375,Mie Bakso,Sunday,Pelajar,10:00
+2832,2024-09-29 09:54:10.534755,Mie Ayam,Sunday,Pelajar,09:00
+7049,2024-09-05 15:59:24.413272,Bakso Kuah,Thursday,Pelajar,15:00
+6050,2024-09-30 13:22:32.945462,Bakso Kuah,Monday,Pekerja Informal,13:00
+4441,2024-09-22 17:11:05.280935,Bakso Kuah,Sunday,Lainnya,17:00
+3532,2024-09-08 20:06:32.997135,Mie Yamin,Sunday,Karyawan,20:00
+7755,2024-09-24 09:17:50.770834,Mie Yamin,Tuesday,Lainnya,09:00
+5065,2024-09-26 12:12:06.006654,Bakso Kuah,Thursday,Lainnya,12:00
+1634,2024-09-08 19:18:11.228458,Bakso Kuah,Sunday,Lainnya,19:00
+6728,2024-09-26 12:39:44.245469,Mie Ayam,Thursday,Karyawan,12:00
+1387,2024-09-13 16:55:13.433495,Bakso Kuah,Friday,Pelajar,16:00
+5573,2024-09-17 13:12:49.512776,Mie Bakso,Tuesday,Pekerja Informal,13:00
+1452,2024-09-09 10:23:02.763680,Mie Ayam,Monday,Pekerja Informal,10:00
+1626,2024-09-14 10:18:02.990040,Mie Yamin,Saturday,Pekerja Informal,10:00
+8149,2024-09-17 16:16:28.222463,Bakso Kuah,Tuesday,Karyawan,16:00
+5173,2024-09-14 09:31:57.498256,Bakso Kuah,Saturday,Karyawan,09:00
+6967,2024-10-01 14:10:32.047664,Mie Yamin,Tuesday,Pekerja Informal,14:00
+3041,2024-09-10 17:38:13.384162,Bakso Kuah,Tuesday,Lainnya,17:00
+6344,2024-09-10 13:49:43.696721,Mie Ayam,Tuesday,Karyawan,13:00
+7888,2024-09-13 16:58:44.951558,Mie Ayam,Friday,Karyawan,16:00
+5930,2024-09-27 13:52:22.447290,Bakso Kuah,Friday,Pekerja Informal,13:00
+5700,2024-09-26 11:31:19.891987,Mie Yamin,Thursday,Lainnya,11:00
+8238,2024-09-07 14:18:21.303330,Mie Bakso,Saturday,Karyawan,14:00
+2389,2024-09-22 12:24:19.572696,Mie Yamin,Sunday,Pelajar,12:00
+4848,2024-09-08 17:04:24.772968,Mie Yamin,Sunday,Karyawan,17:00
+1400,2024-09-16 09:33:16.432622,Bakso Kuah,Monday,Lainnya,09:00
+7790,2024-09-19 19:38:01.114471,Bakso Kuah,Thursday,Lainnya,19:00
+9099,2024-09-05 13:47:45.003676,Bakso Kuah,Thursday,Pelajar,13:00
+7965,2024-09-26 11:37:33.937110,Mie Bakso,Thursday,Pelajar,11:00
+5082,2024-09-04 20:00:34.704624,Bakso Kuah,Wednesday,Lainnya,20:00
+9702,2024-09-20 20:51:16.953972,Bakso Kuah,Friday,Lainnya,20:00
+9270,2024-09-30 14:07:15.200696,Mie Bakso,Monday,Karyawan,14:00
+8777,2024-09-25 14:24:03.013513,Mie Ayam,Wednesday,Pekerja Informal,14:00
+9540,2024-09-08 14:48:54.591137,Mie Yamin,Sunday,Lainnya,14:00
+2269,2024-09-08 17:33:45.138065,Bakso Kuah,Sunday,Pekerja Informal,17:00
+9849,2024-09-05 09:58:00.954811,Mie Ayam,Thursday,Lainnya,09:00
+3503,2024-09-03 17:28:37.306921,Bakso Kuah,Tuesday,Pekerja Informal,17:00
+9890,2024-09-02 14:35:27.929905,Mie Ayam,Monday,Lainnya,14:00
+7381,2024-09-19 19:51:29.022264,Mie Bakso,Thursday,Pelajar,19:00
+7232,2024-10-01 14:43:25.524446,Mie Yamin,Tuesday,Pekerja Informal,14:00
+7389,2024-10-01 19:14:28.951465,Mie Yamin,Tuesday,Karyawan,19:00
+8999,2024-09-14 11:37:59.014616,Mie Bakso,Saturday,Pelajar,11:00
+7371,2024-09-22 13:02:00.796288,Mie Bakso,Sunday,Karyawan,13:00
+8657,2024-09-20 20:02:04.198013,Bakso Kuah,Friday,Lainnya,20:00
+1444,2024-09-14 10:00:26.530365,Mie Ayam,Saturday,Lainnya,10:00
+3977,2024-09-13 09:36:12.296167,Mie Yamin,Friday,Karyawan,09:00
+8449,2024-09-25 12:55:19.738771,Mie Bakso,Wednesday,Pekerja Informal,12:00
+7906,2024-09-03 12:01:38.130173,Mie Bakso,Tuesday,Pelajar,12:00
+9837,2024-10-01 09:37:30.098276,Mie Yamin,Tuesday,Karyawan,09:00
+2124,2024-09-21 18:22:29.267743,Bakso Kuah,Saturday,Pelajar,18:00
+5051,2024-09-01 11:23:32.381478,Mie Ayam,Sunday,Karyawan,11:00
+3068,2024-09-04 14:40:57.837833,Mie Ayam,Wednesday,Lainnya,14:00
+5198,2024-09-06 18:12:09.997849,Mie Ayam,Friday,Pelajar,18:00
+3683,2024-09-04 20:34:35.937395,Bakso Kuah,Wednesday,Pekerja Informal,20:00
+7149,2024-09-23 13:45:35.471874,Mie Ayam,Monday,Pelajar,13:00
+4978,2024-09-25 10:13:22.136395,Mie Yamin,Wednesday,Pelajar,10:00
+1672,2024-09-14 13:09:59.202661,Mie Yamin,Saturday,Pelajar,13:00
+9289,2024-09-01 16:46:13.868575,Mie Yamin,Sunday,Lainnya,16:00
+2729,2024-09-12 14:12:08.210937,Mie Bakso,Thursday,Karyawan,14:00
+8135,2024-09-17 11:06:49.116719,Mie Yamin,Tuesday,Lainnya,11:00
+8616,2024-09-24 14:13:36.818098,Mie Yamin,Tuesday,Pekerja Informal,14:00
+5022,2024-09-03 18:58:07.580016,Bakso Kuah,Tuesday,Lainnya,18:00
+4995,2024-09-19 18:00:20.575375,Mie Ayam,Thursday,Lainnya,18:00
+6511,2024-09-28 09:20:39.839904,Mie Yamin,Saturday,Karyawan,09:00
+8988,2024-09-26 11:32:43.577528,Mie Yamin,Thursday,Pekerja Informal,11:00
+5581,2024-09-23 19:33:49.823126,Mie Yamin,Monday,Pelajar,19:00
+9464,2024-09-03 20:22:36.303360,Bakso Kuah,Tuesday,Lainnya,20:00
+9004,2024-09-08 15:39:43.612340,Mie Ayam,Sunday,Lainnya,15:00
+8342,2024-09-03 18:30:54.699903,Bakso Kuah,Tuesday,Lainnya,18:00
+4986,2024-09-19 12:40:28.100502,Mie Yamin,Thursday,Lainnya,12:00
+9698,2024-09-24 13:07:30.319427,Mie Yamin,Tuesday,Pekerja Informal,13:00
+8434,2024-09-09 12:15:03.589645,Mie Ayam,Monday,Pelajar,12:00
+4155,2024-09-24 12:47:11.671181,Mie Ayam,Tuesday,Karyawan,12:00
+4545,2024-09-09 17:51:47.721032,Mie Ayam,Monday,Pekerja Informal,17:00
+2647,2024-09-10 18:59:29.545296,Bakso Kuah,Tuesday,Karyawan,18:00
+5952,2024-09-18 09:10:11.209465,Mie Ayam,Wednesday,Pekerja Informal,09:00
+1745,2024-09-18 20:41:29.541024,Bakso Kuah,Wednesday,Karyawan,20:00
+9042,2024-09-01 10:13:51.786341,Mie Yamin,Sunday,Lainnya,10:00
+8843,2024-09-06 14:17:08.252079,Bakso Kuah,Friday,Pekerja Informal,14:00
+8827,2024-09-03 10:22:08.564479,Mie Bakso,Tuesday,Lainnya,10:00
+2213,2024-09-22 15:55:27.313960,Bakso Kuah,Sunday,Karyawan,15:00
+5978,2024-09-08 10:01:19.815243,Bakso Kuah,Sunday,Lainnya,10:00
+4697,2024-09-13 18:18:29.960915,Bakso Kuah,Friday,Lainnya,18:00
+5871,2024-09-14 19:19:19.199964,Bakso Kuah,Saturday,Pelajar,19:00
+2625,2024-09-07 20:22:15.896654,Mie Ayam,Saturday,Pekerja Informal,20:00
+2330,2024-09-06 10:53:04.866434,Bakso Kuah,Friday,Karyawan,10:00
+1043,2024-09-23 13:54:07.959139,Mie Bakso,Monday,Pekerja Informal,13:00
+1534,2024-09-23 11:46:39.773333,Mie Yamin,Monday,Lainnya,11:00
+2166,2024-09-30 17:14:55.028547,Bakso Kuah,Monday,Karyawan,17:00
+7965,2024-09-08 10:22:38.336266,Mie Ayam,Sunday,Pekerja Informal,10:00
+3330,2024-09-06 09:51:24.904952,Mie Yamin,Friday,Pekerja Informal,09:00
+8195,2024-09-23 10:29:32.078033,Mie Yamin,Monday,Lainnya,10:00
+5460,2024-09-16 15:00:20.398051,Bakso Kuah,Monday,Pelajar,15:00
+8078,2024-09-20 17:48:51.865486,Bakso Kuah,Friday,Pelajar,17:00
+4750,2024-09-27 20:32:34.559615,Mie Yamin,Friday,Pelajar,20:00
+5415,2024-09-25 15:54:53.869735,Mie Yamin,Wednesday,Lainnya,15:00
+9502,2024-09-30 16:49:05.209944,Bakso Kuah,Monday,Lainnya,16:00
+9056,2024-09-16 20:37:43.186198,Bakso Kuah,Monday,Pekerja Informal,20:00
+6260,2024-09-28 17:02:29.767611,Bakso Kuah,Saturday,Lainnya,17:00
+9117,2024-10-01 12:27:31.008760,Mie Bakso,Tuesday,Pelajar,12:00
+8451,2024-09-09 10:03:24.183048,Mie Yamin,Monday,Pelajar,10:00
+7622,2024-09-27 19:22:44.137231,Mie Bakso,Friday,Lainnya,19:00
+7770,2024-09-17 09:39:01.616488,Mie Yamin,Tuesday,Lainnya,09:00
+8242,2024-09-07 18:07:11.591158,Bakso Kuah,Saturday,Karyawan,18:00
+5719,2024-09-23 14:15:26.615307,Mie Bakso,Monday,Pelajar,14:00
+1472,2024-09-20 20:40:39.942443,Mie Yamin,Friday,Karyawan,20:00
+6091,2024-09-18 15:36:36.245103,Bakso Kuah,Wednesday,Karyawan,15:00
+2858,2024-09-04 14:32:14.549029,Mie Ayam,Wednesday,Lainnya,14:00
+5781,2024-09-09 15:06:23.271051,Bakso Kuah,Monday,Lainnya,15:00
+8736,2024-09-18 11:55:29.175142,Mie Ayam,Wednesday,Lainnya,11:00
+4122,2024-09-17 20:03:44.704077,Mie Ayam,Tuesday,Karyawan,20:00
+2143,2024-09-26 12:18:53.887802,Mie Bakso,Thursday,Pekerja Informal,12:00
+9318,2024-09-01 12:12:21.859044,Mie Yamin,Sunday,Pekerja Informal,12:00
+9022,2024-09-15 19:22:59.257691,Bakso Kuah,Sunday,Pekerja Informal,19:00
+6446,2024-09-18 15:37:22.832417,Bakso Kuah,Wednesday,Pekerja Informal,15:00
+4090,2024-09-08 20:46:09.464074,Bakso Kuah,Sunday,Karyawan,20:00
+7730,2024-09-24 09:31:25.563321,Mie Bakso,Tuesday,Lainnya,09:00
+7325,2024-09-26 20:51:39.484884,Mie Yamin,Thursday,Karyawan,20:00
+9115,2024-09-05 20:34:40.415738,Bakso Kuah,Thursday,Pekerja Informal,20:00
+2644,2024-09-15 19:29:25.024159,Bakso Kuah,Sunday,Lainnya,19:00
+1251,2024-09-14 17:40:09.573351,Mie Yamin,Saturday,Karyawan,17:00
+2225,2024-09-09 14:38:01.993963,Mie Yamin,Monday,Lainnya,14:00
+2315,2024-09-28 19:13:16.260630,Mie Ayam,Saturday,Lainnya,19:00
+6188,2024-09-29 16:31:17.724533,Mie Yamin,Sunday,Pelajar,16:00
+2121,2024-09-22 11:49:02.074502,Mie Yamin,Sunday,Karyawan,11:00
+2480,2024-09-04 14:12:27.567587,Bakso Kuah,Wednesday,Lainnya,14:00
+3725,2024-09-29 17:19:40.850233,Bakso Kuah,Sunday,Pekerja Informal,17:00
+1919,2024-09-12 12:31:13.487922,Mie Bakso,Thursday,Karyawan,12:00
+5000,2024-09-19 15:22:26.384944,Mie Ayam,Thursday,Karyawan,15:00
+3785,2024-09-20 11:06:02.996139,Mie Bakso,Friday,Karyawan,11:00
+9153,2024-09-05 19:57:14.213492,Bakso Kuah,Thursday,Pekerja Informal,19:00
+8529,2024-09-01 12:03:50.113792,Mie Bakso,Sunday,Pekerja Informal,12:00
+9955,2024-09-15 10:53:44.546874,Mie Yamin,Sunday,Pekerja Informal,10:00
+7951,2024-09-15 17:17:01.543738,Mie Yamin,Sunday,Karyawan,17:00
+7302,2024-09-04 19:14:24.091814,Bakso Kuah,Wednesday,Pekerja Informal,19:00
+5847,2024-09-10 20:54:44.296285,Bakso Kuah,Tuesday,Lainnya,20:00
+5497,2024-09-28 09:05:49.832121,Bakso Kuah,Saturday,Lainnya,09:00
+5689,2024-09-08 18:18:32.010319,Mie Ayam,Sunday,Pekerja Informal,18:00
+4588,2024-09-20 16:38:21.892330,Bakso Kuah,Friday,Karyawan,16:00
+2591,2024-09-21 19:50:27.040016,Bakso Kuah,Saturday,Lainnya,19:00
+1546,2024-09-24 15:57:17.588392,Bakso Kuah,Tuesday,Pekerja Informal,15:00
+6352,2024-09-06 17:58:11.173365,Bakso Kuah,Friday,Pekerja Informal,17:00
+9697,2024-09-09 15:01:17.533730,Mie Yamin,Monday,Pekerja Informal,15:00
+8894,2024-09-10 20:36:30.992090,Mie Ayam,Tuesday,Pekerja Informal,20:00
+2886,2024-09-03 14:37:11.915998,Mie Ayam,Tuesday,Karyawan,14:00
+7511,2024-09-26 20:36:26.053083,Bakso Kuah,Thursday,Pelajar,20:00
+7464,2024-09-18 09:10:01.285900,Bakso Kuah,Wednesday,Lainnya,09:00
+7038,2024-09-22 17:04:26.186097,Bakso Kuah,Sunday,Lainnya,17:00
+7086,2024-09-08 10:18:00.551615,Mie Bakso,Sunday,Pelajar,10:00
+6374,2024-09-08 19:58:59.055258,Mie Ayam,Sunday,Lainnya,19:00
+5951,2024-09-04 16:47:27.144079,Bakso Kuah,Wednesday,Pelajar,16:00
+5986,2024-09-04 20:57:04.062589,Bakso Kuah,Wednesday,Karyawan,20:00
+7367,2024-09-22 14:26:37.410298,Mie Bakso,Sunday,Karyawan,14:00
+7797,2024-09-27 16:51:32.625972,Bakso Kuah,Friday,Lainnya,16:00
+5583,2024-09-12 09:23:33.343592,Mie Ayam,Thursday,Lainnya,09:00
+8285,2024-09-28 20:24:23.983338,Bakso Kuah,Saturday,Pekerja Informal,20:00
+9920,2024-09-21 19:49:13.276377,Bakso Kuah,Saturday,Lainnya,19:00
+5520,2024-09-04 11:16:39.729885,Mie Bakso,Wednesday,Pelajar,11:00
+4475,2024-09-20 16:42:01.632984,Mie Bakso,Friday,Pelajar,16:00
+6464,2024-09-05 11:55:22.176357,Mie Ayam,Thursday,Pelajar,11:00
+4394,2024-09-27 16:02:11.749211,Mie Yamin,Friday,Pekerja Informal,16:00
+3417,2024-09-20 18:27:49.410185,Bakso Kuah,Friday,Karyawan,18:00
+3129,2024-09-26 15:28:57.307736,Bakso Kuah,Thursday,Pelajar,15:00
+3159,2024-09-26 09:10:41.966136,Mie Ayam,Thursday,Pekerja Informal,09:00
+1258,2024-09-02 11:05:27.435901,Mie Ayam,Monday,Lainnya,11:00
+9619,2024-09-03 10:21:49.650053,Mie Bakso,Tuesday,Lainnya,10:00
+6931,2024-09-04 15:09:31.879769,Bakso Kuah,Wednesday,Karyawan,15:00
+1710,2024-09-30 17:43:36.897477,Mie Yamin,Monday,Pekerja Informal,17:00
+8504,2024-09-01 16:43:12.317558,Bakso Kuah,Sunday,Lainnya,16:00
+7580,2024-09-04 14:06:55.020353,Mie Bakso,Wednesday,Lainnya,14:00
+2204,2024-09-11 19:47:28.324253,Mie Ayam,Wednesday,Pelajar,19:00
+3067,2024-09-21 12:18:00.691181,Mie Yamin,Saturday,Lainnya,12:00
+9692,2024-09-17 12:32:19.582625,Mie Bakso,Tuesday,Pelajar,12:00
+2874,2024-09-21 19:14:00.646251,Mie Yamin,Saturday,Karyawan,19:00
+8046,2024-09-08 14:25:07.172370,Mie Bakso,Sunday,Pekerja Informal,14:00
+8430,2024-09-24 13:47:05.143960,Bakso Kuah,Tuesday,Pekerja Informal,13:00
+7992,2024-09-09 12:45:01.018273,Mie Yamin,Monday,Karyawan,12:00
+8770,2024-09-27 09:48:20.158912,Bakso Kuah,Friday,Pelajar,09:00
+8075,2024-09-24 10:09:31.583487,Mie Yamin,Tuesday,Karyawan,10:00
+1982,2024-09-18 16:02:15.291574,Bakso Kuah,Wednesday,Pelajar,16:00
+7730,2024-09-22 13:14:35.437040,Mie Bakso,Sunday,Pelajar,13:00
+5712,2024-09-12 16:12:17.715941,Bakso Kuah,Thursday,Karyawan,16:00
+3535,2024-09-08 16:52:51.008289,Mie Yamin,Sunday,Pekerja Informal,16:00
+7022,2024-09-09 10:22:43.045545,Mie Ayam,Monday,Lainnya,10:00
+1430,2024-09-22 16:18:28.580352,Mie Yamin,Sunday,Pekerja Informal,16:00
+1474,2024-09-23 11:09:53.974309,Mie Yamin,Monday,Pekerja Informal,11:00
+6751,2024-09-28 09:04:23.770102,Mie Ayam,Saturday,Lainnya,09:00
+2140,2024-09-21 10:42:08.985059,Bakso Kuah,Saturday,Pelajar,10:00
+9691,2024-09-14 11:34:53.740417,Mie Bakso,Saturday,Pekerja Informal,11:00
+3578,2024-09-24 13:26:26.293595,Mie Yamin,Tuesday,Pelajar,13:00
+1861,2024-09-25 10:52:01.051827,Bakso Kuah,Wednesday,Pelajar,10:00
+5458,2024-09-14 14:19:02.480491,Mie Bakso,Saturday,Lainnya,14:00
+7785,2024-09-25 12:16:40.807677,Bakso Kuah,Wednesday,Pekerja Informal,12:00
+8043,2024-09-22 10:19:50.438159,Mie Bakso,Sunday,Pekerja Informal,10:00
+1744,2024-09-20 11:38:46.396414,Bakso Kuah,Friday,Pelajar,11:00
+4349,2024-09-07 12:37:01.316439,Mie Ayam,Saturday,Pekerja Informal,12:00
+5742,2024-09-01 12:56:14.885777,Mie Bakso,Sunday,Lainnya,12:00
+3878,2024-09-18 10:33:00.822316,Mie Ayam,Wednesday,Pekerja Informal,10:00
+2180,2024-09-24 13:45:53.474727,Bakso Kuah,Tuesday,Lainnya,13:00
+1307,2024-09-03 14:31:01.383615,Mie Yamin,Tuesday,Lainnya,14:00
+7626,2024-09-14 17:30:50.355140,Bakso Kuah,Saturday,Lainnya,17:00
+1341,2024-09-06 20:35:39.826653,Mie Yamin,Friday,Lainnya,20:00
+6928,2024-09-28 10:03:27.210872,Bakso Kuah,Saturday,Karyawan,10:00
+8138,2024-09-17 16:03:59.239655,Bakso Kuah,Tuesday,Pekerja Informal,16:00
+6562,2024-09-25 11:39:31.912944,Mie Ayam,Wednesday,Pelajar,11:00
+9363,2024-09-17 16:35:55.305613,Bakso Kuah,Tuesday,Pekerja Informal,16:00
+6752,2024-09-27 17:43:42.777365,Mie Ayam,Friday,Karyawan,17:00
+4871,2024-09-09 10:14:01.155600,Mie Ayam,Monday,Karyawan,10:00
+3504,2024-09-21 18:07:21.300768,Bakso Kuah,Saturday,Lainnya,18:00
+8601,2024-09-25 18:03:12.059651,Bakso Kuah,Wednesday,Pekerja Informal,18:00
+6179,2024-09-03 10:48:41.359740,Mie Bakso,Tuesday,Lainnya,10:00
+5961,2024-09-19 18:33:21.442139,Bakso Kuah,Thursday,Pelajar,18:00
+6085,2024-09-02 14:32:27.275414,Bakso Kuah,Monday,Pekerja Informal,14:00
+5703,2024-09-28 09:55:14.779251,Bakso Kuah,Saturday,Lainnya,09:00
+8581,2024-10-01 15:57:50.230400,Mie Yamin,Tuesday,Pelajar,15:00
+8368,2024-09-19 19:54:30.958124,Mie Ayam,Thursday,Pekerja Informal,19:00
+8792,2024-10-01 15:00:59.067441,Bakso Kuah,Tuesday,Pelajar,15:00
+6626,2024-09-03 20:47:19.057103,Bakso Kuah,Tuesday,Karyawan,20:00
+1641,2024-09-15 11:58:22.528859,Mie Bakso,Sunday,Karyawan,11:00
+6962,2024-09-10 13:28:27.205627,Mie Bakso,Tuesday,Lainnya,13:00
+6543,2024-09-02 17:08:48.381528,Mie Yamin,Monday,Pekerja Informal,17:00
+2079,2024-09-18 12:57:22.640621,Mie Bakso,Wednesday,Pekerja Informal,12:00
+5128,2024-09-22 17:41:05.293896,Mie Bakso,Sunday,Karyawan,17:00
+6461,2024-09-22 09:58:40.885858,Mie Ayam,Sunday,Pekerja Informal,09:00
+6082,2024-09-23 20:36:44.489132,Mie Ayam,Monday,Karyawan,20:00
+2388,2024-09-13 12:42:53.937536,Mie Yamin,Friday,Karyawan,12:00
+9624,2024-09-22 10:07:17.168091,Mie Bakso,Sunday,Pekerja Informal,10:00
+1298,2024-09-06 13:21:04.219300,Mie Ayam,Friday,Pekerja Informal,13:00
+8967,2024-09-05 11:18:14.626094,Mie Ayam,Thursday,Pelajar,11:00
+5846,2024-09-04 19:07:59.306391,Bakso Kuah,Wednesday,Pelajar,19:00
+6517,2024-09-20 19:31:00.167774,Bakso Kuah,Friday,Lainnya,19:00
+3527,2024-09-27 10:56:49.079562,Mie Ayam,Friday,Lainnya,10:00
+1715,2024-09-22 13:55:49.092017,Mie Ayam,Sunday,Lainnya,13:00
+5668,2024-09-26 18:01:43.298333,Bakso Kuah,Thursday,Karyawan,18:00
+6070,2024-09-26 20:35:13.774727,Bakso Kuah,Thursday,Karyawan,20:00
+7026,2024-09-19 17:08:22.854843,Mie Bakso,Thursday,Lainnya,17:00
+5616,2024-09-17 18:20:14.958409,Bakso Kuah,Tuesday,Karyawan,18:00
+4271,2024-09-05 18:36:54.398483,Mie Yamin,Thursday,Pelajar,18:00
+8873,2024-09-18 19:29:21.852026,Mie Bakso,Wednesday,Pelajar,19:00
+5670,2024-09-06 10:00:23.405416,Mie Yamin,Friday,Lainnya,10:00
+9410,2024-09-14 10:46:05.461939,Bakso Kuah,Saturday,Karyawan,10:00
+8391,2024-09-30 19:36:56.006225,Bakso Kuah,Monday,Pelajar,19:00
+7495,2024-09-08 15:01:26.707355,Bakso Kuah,Sunday,Pelajar,15:00
+7142,2024-09-11 11:41:40.074372,Bakso Kuah,Wednesday,Pekerja Informal,11:00
+3392,2024-09-10 10:39:04.302190,Mie Bakso,Tuesday,Karyawan,10:00
+8685,2024-09-01 14:22:59.583676,Bakso Kuah,Sunday,Pelajar,14:00
+5193,2024-09-05 11:35:16.284961,Mie Bakso,Thursday,Pelajar,11:00
+5720,2024-09-04 11:51:06.057791,Bakso Kuah,Wednesday,Karyawan,11:00
+7878,2024-09-20 16:40:02.714830,Bakso Kuah,Friday,Pelajar,16:00
+9189,2024-09-01 16:09:39.126650,Mie Ayam,Sunday,Karyawan,16:00
+3352,2024-09-01 12:29:42.949872,Mie Yamin,Sunday,Karyawan,12:00
+7825,2024-09-22 11:14:51.960990,Bakso Kuah,Sunday,Pekerja Informal,11:00
+2108,2024-09-18 20:26:27.038889,Bakso Kuah,Wednesday,Pelajar,20:00
+7397,2024-09-02 19:28:47.918144,Mie Ayam,Monday,Pekerja Informal,19:00
+5155,2024-09-12 17:58:04.076756,Mie Yamin,Thursday,Pekerja Informal,17:00
+4950,2024-09-21 17:47:43.052127,Bakso Kuah,Saturday,Pekerja Informal,17:00
+3185,2024-09-18 09:31:55.301734,Mie Yamin,Wednesday,Karyawan,09:00
+8612,2024-09-16 20:46:11.388826,Mie Ayam,Monday,Karyawan,20:00
+2033,2024-10-01 17:35:33.146488,Bakso Kuah,Tuesday,Pekerja Informal,17:00
+4302,2024-09-07 09:31:32.431108,Bakso Kuah,Saturday,Pekerja Informal,09:00
+6080,2024-09-27 15:11:04.571056,Bakso Kuah,Friday,Pekerja Informal,15:00
+1599,2024-09-07 18:02:22.167693,Bakso Kuah,Saturday,Pelajar,18:00
+6438,2024-09-26 12:16:42.957384,Mie Yamin,Thursday,Lainnya,12:00
+7553,2024-09-29 17:55:10.892878,Mie Bakso,Sunday,Pekerja Informal,17:00
+4060,2024-09-16 14:57:15.979386,Mie Yamin,Monday,Pekerja Informal,14:00
+2353,2024-09-03 17:43:29.913212,Bakso Kuah,Tuesday,Karyawan,17:00
+9937,2024-09-04 12:31:30.709301,Bakso Kuah,Wednesday,Pekerja Informal,12:00
+5843,2024-09-20 12:40:40.620983,Mie Bakso,Friday,Karyawan,12:00
+8272,2024-09-02 13:13:06.829699,Mie Yamin,Monday,Lainnya,13:00
+5498,2024-09-26 16:40:25.074213,Mie Bakso,Thursday,Pelajar,16:00
+7655,2024-09-26 13:21:35.040844,Mie Ayam,Thursday,Pelajar,13:00
+3339,2024-09-22 19:11:02.514191,Mie Yamin,Sunday,Pelajar,19:00
+3068,2024-09-25 09:48:24.481284,Mie Yamin,Wednesday,Pekerja Informal,09:00
+7272,2024-09-02 20:23:36.979233,Mie Ayam,Monday,Lainnya,20:00
+7077,2024-09-25 13:27:50.977950,Bakso Kuah,Wednesday,Karyawan,13:00
+9674,2024-09-11 13:24:12.237782,Mie Yamin,Wednesday,Karyawan,13:00
+2858,2024-09-06 09:18:39.456325,Mie Bakso,Friday,Lainnya,09:00
+2929,2024-09-09 12:08:28.752429,Mie Bakso,Monday,Karyawan,12:00
+5678,2024-09-16 17:19:39.963693,Bakso Kuah,Monday,Karyawan,17:00
+2213,2024-09-29 14:25:28.244003,Mie Bakso,Sunday,Pelajar,14:00
+6236,2024-09-23 17:00:50.678949,Bakso Kuah,Monday,Pekerja Informal,17:00
+5914,2024-09-23 19:12:58.840593,Mie Ayam,Monday,Karyawan,19:00
+6922,2024-09-04 15:06:18.248192,Mie Bakso,Wednesday,Karyawan,15:00
+4878,2024-09-01 18:29:04.116227,Bakso Kuah,Sunday,Pekerja Informal,18:00
+8657,2024-09-18 18:38:38.186576,Bakso Kuah,Wednesday,Pelajar,18:00
+2077,2024-09-23 12:42:41.358997,Mie Bakso,Monday,Lainnya,12:00
+7708,2024-09-03 18:52:48.262059,Bakso Kuah,Tuesday,Pekerja Informal,18:00
+2215,2024-09-22 14:23:58.898213,Mie Yamin,Sunday,Karyawan,14:00
+3981,2024-09-05 18:12:48.166734,Bakso Kuah,Thursday,Pelajar,18:00
+3034,2024-09-10 15:13:02.012142,Bakso Kuah,Tuesday,Pekerja Informal,15:00
+4694,2024-10-01 13:09:08.197157,Mie Yamin,Tuesday,Pelajar,13:00
+5105,2024-10-01 11:21:20.242922,Mie Yamin,Tuesday,Karyawan,11:00
+5961,2024-09-03 16:22:23.301623,Bakso Kuah,Tuesday,Karyawan,16:00
+3526,2024-09-20 11:03:15.866916,Mie Yamin,Friday,Pelajar,11:00
+1464,2024-10-01 09:58:28.827331,Mie Yamin,Tuesday,Karyawan,09:00
+7825,2024-09-01 16:25:02.284017,Bakso Kuah,Sunday,Pekerja Informal,16:00
+5949,2024-09-26 14:47:43.216145,Mie Bakso,Thursday,Pekerja Informal,14:00
+8430,2024-09-02 09:52:32.434702,Mie Ayam,Monday,Lainnya,09:00
+7809,2024-09-07 14:48:39.648821,Mie Yamin,Saturday,Karyawan,14:00
+6121,2024-09-11 19:20:16.155319,Mie Ayam,Wednesday,Pekerja Informal,19:00
+7532,2024-09-12 10:34:09.097747,Bakso Kuah,Thursday,Pekerja Informal,10:00
+4960,2024-09-09 14:35:51.614896,Mie Bakso,Monday,Karyawan,14:00
+3308,2024-09-10 10:09:42.263391,Mie Bakso,Tuesday,Lainnya,10:00
+5067,2024-09-29 20:33:08.028817,Bakso Kuah,Sunday,Pekerja Informal,20:00
+6123,2024-09-06 11:16:40.833173,Mie Bakso,Friday,Lainnya,11:00
+9171,2024-09-16 19:32:56.068668,Bakso Kuah,Monday,Lainnya,19:00
+9281,2024-09-08 14:29:12.363743,Mie Ayam,Sunday,Pekerja Informal,14:00
+1797,2024-09-16 09:36:23.345480,Mie Bakso,Monday,Pekerja Informal,09:00
+9793,2024-09-04 09:05:53.263937,Mie Bakso,Wednesday,Karyawan,09:00
+5333,2024-09-25 17:43:48.348337,Bakso Kuah,Wednesday,Pelajar,17:00
+7563,2024-09-18 09:36:50.012095,Mie Ayam,Wednesday,Pekerja Informal,09:00
+5728,2024-09-17 09:52:56.571589,Mie Bakso,Tuesday,Pekerja Informal,09:00
+2946,2024-09-04 10:32:38.258478,Mie Bakso,Wednesday,Pekerja Informal,10:00
+6555,2024-09-12 15:41:38.335413,Mie Yamin,Thursday,Karyawan,15:00
+9341,2024-09-02 13:48:59.922041,Bakso Kuah,Monday,Pelajar,13:00
+3245,2024-09-26 17:33:47.167761,Bakso Kuah,Thursday,Lainnya,17:00
+3440,2024-09-17 16:16:30.454568,Bakso Kuah,Tuesday,Pekerja Informal,16:00
+3662,2024-09-20 13:42:55.638196,Mie Yamin,Friday,Pekerja Informal,13:00
+9311,2024-09-18 18:56:22.101473,Bakso Kuah,Wednesday,Pekerja Informal,18:00
+8780,2024-09-12 18:47:20.349596,Bakso Kuah,Thursday,Pelajar,18:00
+7824,2024-09-26 16:00:15.932528,Mie Yamin,Thursday,Pelajar,16:00
+8775,2024-09-21 12:11:10.914878,Mie Ayam,Saturday,Pelajar,12:00
+8871,2024-09-21 11:02:46.121067,Mie Bakso,Saturday,Karyawan,11:00
+4968,2024-10-01 09:22:43.846176,Bakso Kuah,Tuesday,Karyawan,09:00
+1310,2024-09-14 14:17:32.866059,Mie Ayam,Saturday,Lainnya,14:00
+4340,2024-09-25 13:55:28.304083,Mie Bakso,Wednesday,Pelajar,13:00
+3262,2024-09-18 15:13:27.114739,Bakso Kuah,Wednesday,Lainnya,15:00
+9609,2024-10-01 13:31:18.830331,Mie Ayam,Tuesday,Lainnya,13:00
+9734,2024-09-12 13:06:28.527164,Mie Yamin,Thursday,Lainnya,13:00
+4150,2024-09-09 20:29:16.975516,Bakso Kuah,Monday,Karyawan,20:00
+5876,2024-09-23 18:15:14.728425,Bakso Kuah,Monday,Lainnya,18:00
+6194,2024-09-18 14:45:27.507882,Mie Yamin,Wednesday,Pekerja Informal,14:00
+2996,2024-09-18 15:52:54.197927,Bakso Kuah,Wednesday,Lainnya,15:00
+6654,2024-09-26 20:27:19.102899,Bakso Kuah,Thursday,Pelajar,20:00
+5712,2024-09-03 20:27:49.552604,Bakso Kuah,Tuesday,Lainnya,20:00
+5201,2024-09-07 17:58:05.023188,Bakso Kuah,Saturday,Pekerja Informal,17:00
+5450,2024-09-20 10:38:50.191647,Mie Ayam,Friday,Karyawan,10:00
+1831,2024-09-17 17:02:16.827283,Bakso Kuah,Tuesday,Karyawan,17:00
+1860,2024-09-11 10:12:08.551831,Mie Bakso,Wednesday,Pelajar,10:00
+3252,2024-09-18 09:03:43.838485,Mie Ayam,Wednesday,Lainnya,09:00
+8793,2024-09-07 14:43:45.776083,Mie Yamin,Saturday,Pekerja Informal,14:00
+5676,2024-09-30 16:45:02.790053,Mie Yamin,Monday,Karyawan,16:00
+9767,2024-09-28 17:51:51.257762,Mie Bakso,Saturday,Karyawan,17:00
+7846,2024-09-06 19:35:12.982841,Mie Bakso,Friday,Pelajar,19:00
+7504,2024-09-06 18:27:19.899211,Mie Bakso,Friday,Pekerja Informal,18:00
+1613,2024-09-19 09:06:40.341678,Bakso Kuah,Thursday,Pekerja Informal,09:00
+5662,2024-09-21 14:27:07.880176,Mie Bakso,Saturday,Karyawan,14:00
+9261,2024-09-07 14:36:58.497221,Bakso Kuah,Saturday,Pekerja Informal,14:00
+3662,2024-09-21 17:46:24.350901,Bakso Kuah,Saturday,Karyawan,17:00
+1230,2024-09-26 17:50:21.893085,Bakso Kuah,Thursday,Karyawan,17:00
+3875,2024-09-21 16:19:53.234385,Mie Yamin,Saturday,Lainnya,16:00
+9442,2024-09-13 12:56:06.431658,Bakso Kuah,Friday,Karyawan,12:00
+3303,2024-09-30 14:43:46.017055,Mie Ayam,Monday,Pelajar,14:00
+5272,2024-09-15 13:36:10.413677,Mie Yamin,Sunday,Pekerja Informal,13:00
+5947,2024-09-19 15:59:22.304467,Bakso Kuah,Thursday,Pekerja Informal,15:00
+4871,2024-09-04 09:44:43.771134,Mie Bakso,Wednesday,Pekerja Informal,09:00
+3616,2024-09-17 13:51:53.997680,Mie Yamin,Tuesday,Pelajar,13:00
+5833,2024-09-08 13:24:37.896614,Mie Ayam,Sunday,Karyawan,13:00
+8834,2024-09-24 10:50:17.616395,Mie Yamin,Tuesday,Lainnya,10:00
+9998,2024-09-25 19:57:12.825574,Bakso Kuah,Wednesday,Karyawan,19:00
+5054,2024-09-20 17:09:50.770941,Mie Yamin,Friday,Pelajar,17:00
+9609,2024-09-23 14:21:39.512628,Mie Yamin,Monday,Pelajar,14:00
+2838,2024-09-18 09:44:27.947654,Mie Ayam,Wednesday,Karyawan,09:00
+3695,2024-09-17 12:56:14.681950,Mie Bakso,Tuesday,Pelajar,12:00
+4365,2024-09-16 17:36:10.856139,Bakso Kuah,Monday,Lainnya,17:00
+1911,2024-09-17 14:26:28.275368,Mie Bakso,Tuesday,Lainnya,14:00
+1945,2024-09-22 15:42:20.038997,Mie Yamin,Sunday,Pelajar,15:00
+7487,2024-09-01 12:03:12.551864,Mie Ayam,Sunday,Pelajar,12:00
+1742,2024-09-23 14:05:03.727022,Bakso Kuah,Monday,Pelajar,14:00
+2130,2024-09-16 20:50:01.129117,Bakso Kuah,Monday,Lainnya,20:00
+3948,2024-09-25 18:13:39.593104,Mie Ayam,Wednesday,Lainnya,18:00
+7135,2024-09-13 20:54:51.405059,Bakso Kuah,Friday,Lainnya,20:00
+7154,2024-10-01 09:57:46.799682,Mie Ayam,Tuesday,Pekerja Informal,09:00
+2943,2024-09-18 11:08:30.060773,Mie Bakso,Wednesday,Karyawan,11:00
+4648,2024-09-25 19:01:04.293624,Bakso Kuah,Wednesday,Pekerja Informal,19:00
+8585,2024-09-18 17:04:55.193856,Bakso Kuah,Wednesday,Lainnya,17:00
+4762,2024-09-12 11:58:12.520063,Mie Ayam,Thursday,Pekerja Informal,11:00
+4088,2024-09-24 20:14:56.127601,Mie Yamin,Tuesday,Pelajar,20:00
+7868,2024-09-30 16:22:44.682551,Mie Yamin,Monday,Pelajar,16:00
+4943,2024-09-04 11:28:22.726064,Bakso Kuah,Wednesday,Lainnya,11:00
+1797,2024-09-02 11:56:12.515333,Mie Bakso,Monday,Lainnya,11:00
+4839,2024-09-25 15:28:37.623745,Mie Yamin,Wednesday,Pelajar,15:00
+3295,2024-09-10 15:02:48.300674,Bakso Kuah,Tuesday,Pekerja Informal,15:00
+6253,2024-09-29 11:50:34.254302,Mie Ayam,Sunday,Karyawan,11:00
+7775,2024-09-02 12:36:21.641202,Mie Ayam,Monday,Lainnya,12:00
+9120,2024-09-12 09:33:45.392988,Mie Bakso,Thursday,Pekerja Informal,09:00
+7821,2024-09-10 13:53:56.796439,Mie Bakso,Tuesday,Karyawan,13:00
+9813,2024-09-28 14:40:56.013042,Mie Ayam,Saturday,Pekerja Informal,14:00
+3365,2024-09-30 18:40:09.530109,Bakso Kuah,Monday,Lainnya,18:00
+7824,2024-09-05 15:41:14.787954,Bakso Kuah,Thursday,Pekerja Informal,15:00
+4331,2024-09-03 12:57:47.361325,Mie Bakso,Tuesday,Pekerja Informal,12:00
+2514,2024-09-27 15:25:39.455170,Bakso Kuah,Friday,Pekerja Informal,15:00
+7179,2024-09-20 17:05:02.626971,Bakso Kuah,Friday,Pelajar,17:00
+4082,2024-09-19 18:39:20.906691,Mie Ayam,Thursday,Karyawan,18:00
+8854,2024-09-30 11:30:24.008625,Mie Yamin,Monday,Pekerja Informal,11:00
+1251,2024-09-07 11:32:30.095753,Bakso Kuah,Saturday,Lainnya,11:00
+4974,2024-09-23 17:20:51.055542,Bakso Kuah,Monday,Karyawan,17:00
+6269,2024-09-13 18:18:22.199705,Bakso Kuah,Friday,Pekerja Informal,18:00
+6053,2024-09-17 12:08:19.462303,Mie Bakso,Tuesday,Lainnya,12:00
+2615,2024-09-24 18:38:01.678063,Bakso Kuah,Tuesday,Pekerja Informal,18:00
+4328,2024-09-14 13:26:54.452606,Bakso Kuah,Saturday,Karyawan,13:00
+3390,2024-09-18 09:11:40.699723,Mie Bakso,Wednesday,Pekerja Informal,09:00
+3497,2024-09-08 11:21:15.485014,Mie Bakso,Sunday,Karyawan,11:00
+9180,2024-10-01 15:36:27.757405,Mie Ayam,Tuesday,Pekerja Informal,15:00
+9005,2024-09-21 20:35:53.157145,Mie Ayam,Saturday,Lainnya,20:00
+3756,2024-09-12 17:47:35.760639,Bakso Kuah,Thursday,Lainnya,17:00
+4015,2024-09-18 20:00:10.053635,Mie Bakso,Wednesday,Pelajar,20:00
+9584,2024-09-28 09:24:21.186310,Bakso Kuah,Saturday,Pelajar,09:00
+1104,2024-09-27 13:56:55.344008,Mie Ayam,Friday,Pelajar,13:00
+3474,2024-09-17 09:06:34.911145,Mie Bakso,Tuesday,Pekerja Informal,09:00
+1990,2024-09-22 16:24:50.482190,Mie Bakso,Sunday,Lainnya,16:00
+8993,2024-09-18 09:11:19.612329,Mie Bakso,Wednesday,Pelajar,09:00
+1274,2024-09-09 15:21:10.842344,Bakso Kuah,Monday,Pekerja Informal,15:00
+1280,2024-09-23 15:01:35.732593,Mie Ayam,Monday,Karyawan,15:00
+2753,2024-09-17 20:00:59.710081,Bakso Kuah,Tuesday,Karyawan,20:00
+9625,2024-09-12 12:01:44.466081,Mie Yamin,Thursday,Lainnya,12:00
+2294,2024-09-13 13:28:35.828406,Mie Bakso,Friday,Karyawan,13:00
+4700,2024-09-27 12:35:58.904463,Bakso Kuah,Friday,Pelajar,12:00
+2531,2024-09-13 13:51:48.022478,Mie Bakso,Friday,Pelajar,13:00
+1154,2024-09-03 17:26:02.910481,Bakso Kuah,Tuesday,Lainnya,17:00
+6427,2024-09-28 15:47:25.006327,Mie Bakso,Saturday,Pelajar,15:00
+4764,2024-09-28 11:32:13.216814,Mie Bakso,Saturday,Pekerja Informal,11:00
+1762,2024-09-22 20:05:23.680317,Mie Bakso,Sunday,Pelajar,20:00
+3938,2024-09-11 20:08:42.706806,Bakso Kuah,Wednesday,Karyawan,20:00
+3362,2024-09-23 18:01:37.393097,Mie Yamin,Monday,Pelajar,18:00
+5903,2024-09-08 10:56:57.850831,Mie Bakso,Sunday,Pekerja Informal,10:00
+7288,2024-09-05 18:04:02.320227,Mie Yamin,Thursday,Pelajar,18:00
+9204,2024-09-12 17:56:43.723446,Bakso Kuah,Thursday,Lainnya,17:00
+4803,2024-09-11 19:03:50.745209,Mie Ayam,Wednesday,Lainnya,19:00
+6347,2024-09-09 09:21:19.828466,Mie Bakso,Monday,Lainnya,09:00
+4737,2024-10-01 13:16:11.043741,Mie Bakso,Tuesday,Lainnya,13:00
+4043,2024-09-22 17:09:22.817869,Bakso Kuah,Sunday,Pekerja Informal,17:00
+5037,2024-09-03 17:33:26.288612,Bakso Kuah,Tuesday,Lainnya,17:00
+3527,2024-09-11 17:52:33.108484,Bakso Kuah,Wednesday,Pelajar,17:00
+1085,2024-09-15 20:18:55.881821,Bakso Kuah,Sunday,Pekerja Informal,20:00
+2674,2024-09-06 10:35:24.302594,Mie Bakso,Friday,Lainnya,10:00
